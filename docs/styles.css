@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    canvas {
+        background: #eee;
+        display: block;
+        margin: 0 auto;
+    }
+    .options-menu {
+        border-style: dashed;
+        width: 400px;
+        position: relative;
+        left: 30%;
+        margin: 10px;
+    }
+</html>
